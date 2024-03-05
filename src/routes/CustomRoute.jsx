@@ -26,7 +26,7 @@ const CustomRoute = ({ userList }) => {
               4
             </p>
             <img
-              src="../../src/assets/images/moptro logo-1@2x.png"
+              src="./src/assets/images/moptro logo-1@2x.png"
               alt="moptro"
               className="w-[100px]"
             />
